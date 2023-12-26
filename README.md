@@ -28,9 +28,9 @@ To set up the project:
 - `script.js`: JavaScript for piano key interactivity.
 - `tunes/`: Directory with `.wav` audio files for each key.
 
-## Contributing
+## ScreenShoot
+<img width="868" alt="Screenshot 2023-12-26 at 4 33 56 AM" src="https://github.com/shovo4/pianofun/assets/58551093/2a1ef2d5-86ad-4fc6-adcf-013eec13c2f5">
 
-Feel free to contribute! Check the [issues page](link-to-issues-page) for contributing.
 
 ## License
 
